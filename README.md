@@ -4,7 +4,7 @@
 This project focuses on analyzing historical insurance customer data to uncover meaningful patterns regarding policy purchases, claim frequencies, and customer retention[cite: 58]. [cite_start]The goal is to provide data-backed insights to optimize policy bundling and minimize customer churn[cite: 60, 61].
 
 ## Tech Stack Used
-**SQL (MySQL):*** Data cleaning, structure transformations, and metric calculations [cite: 54, 59]
+***SQL (MySQL):*** Data cleaning, structure transformations, and metric calculations [cite: 54, 59]
 ***Tableau:*** Creating interactive executive dashboards and KPI tracking [cite: 54, 60]
 ***Advanced Excel:*** Initial data cleaning and data dictionary review [cite: 54, 59]
 
